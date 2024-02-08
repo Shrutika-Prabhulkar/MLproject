@@ -8,3 +8,20 @@ xgboost
 dill
 Flask
 #-e .
+certifi
+chardet
+click
+idna
+itsdangerous
+Jinja2
+joblib
+jsonify
+MarkupSafe
+requests
+scipy
+sklearn
+threadpoolctl
+urllib3
+Werkzeug
+wincertstore
+gunicorn
